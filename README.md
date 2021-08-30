@@ -37,9 +37,11 @@ A: BITCOIN
 ### NGrams and Frequency Analysis (n=2)
 
 BITCOIN 10 Most Common
+
 ![image](https://user-images.githubusercontent.com/51159089/131274216-faeae563-6c76-4f68-b376-69258e104a6f.png)
 
 ETHEREUM 10 Most Common
+
 ![image](https://user-images.githubusercontent.com/51159089/131274245-31c9bd18-7fe3-44c4-a25f-44fc61e92800.png)
 
 
